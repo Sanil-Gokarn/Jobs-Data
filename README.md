@@ -2,7 +2,6 @@
 
 ![Dashboard Page 1](/Images/Page%201%20Main%20Page.png)
 
-[View interactive dashboard here on the Power Bi Service]()
 
 ## Introduction
 
